@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ben Hoyt’s Resume/CV
-permalink: /cv/
+permalink: ./cv/
 ---
 <h1 id="ben-hoyts-resumecv" class="no-print">{{ page.title }}</h1>
 
